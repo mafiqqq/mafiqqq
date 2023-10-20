@@ -1,6 +1,6 @@
 ### Hi there 👋
 I'm a software developer with 3 years of experience and I
-am eager to apply expand my expertise in web development, APIs, databases and DevOps. My skillsets are Python, C#, VueJs, Angular, Perl, PostgreSQL, MongoDB
+am eager to learn and expand my expertise in web development, APIs, databases and DevOps. My skillsets are Python, C#, VueJs, Angular, Perl, PostgreSQL, MongoDB
 
 <img src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width="385px" align="center">
 
