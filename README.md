@@ -15,6 +15,7 @@ am eager to learn and expand my expertise in web development, APIs, databases an
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/Perl-purple?style=for-the-badge&logo=perl&logoColor=white">
   <br>
 </p>
 
@@ -32,16 +33,20 @@ am eager to learn and expand my expertise in web development, APIs, databases an
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
+  <img src="https://img.shields.io/badge/MongoDB-6fc91a?style=for-the-badge&logo=mongodb&logoColor=white">
   <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
   <img src="https://img.shields.io/badge/Neo4j-09113d?style=for-the-badge&logo=neo4j&logoColor=white">
   <br>
 </p>
 
-**DevOps/Testing Tools:**
+**DevOps/Testing/Misc. Tools:**
 <p>
+  <img src="https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/Github_Actions-black?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/Selenium-black?style=for-the-badge&logo=selenium&logoColor=0de023">
   <img src="https://img.shields.io/badge/Cucumber-green?style=for-the-badge&logo=cucumber&logoColor=white">
+  <img src="https://img.shields.io/badge/RabbitMQ-orange?style=for-the-badge&logo=rabbitmq&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-2c8bab?style=for-the-badge&logo=docker&logoColor=white">
 </p>
 
 **Connect me on:**
