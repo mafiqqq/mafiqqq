@@ -23,19 +23,15 @@ am eager to learn and expand my expertise in web development, APIs, databases an
 <p>
   <img src="https://img.shields.io/badge/Angular-red?style=for-the-badge&logo=angular&logoColor=white">
   <img src="https://img.shields.io/badge/Tailwind_CSS-4dc0b5?style=for-the-badge&logo=tailwindcss&logoColor=white">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img src="https://img.shields.io/badge/Django-1c3829?style=for-the-badge&logo=django&logoColor=white">
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D">
 </p>
 
 **Databases:**
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
   <img src="https://img.shields.io/badge/MongoDB-6fc91a?style=for-the-badge&logo=mongodb&logoColor=white">
   <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
-  <img src="https://img.shields.io/badge/Neo4j-09113d?style=for-the-badge&logo=neo4j&logoColor=white">
   <br>
 </p>
 
@@ -56,15 +52,3 @@ am eager to learn and expand my expertise in web development, APIs, databases an
 </p>
 <!--
 **mafiqqq/mafiqqq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
